@@ -1860,8 +1860,8 @@ self.postMessage(data)}
 
         .chat-body {
             padding: 10px;
-			height: 50%;
-            max-height: 90%;
+			height: 200px;
+            max-height:500px;
             overflow-y: scroll;
         }
 
